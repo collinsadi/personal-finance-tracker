@@ -1,0 +1,3 @@
+The Finance Tracker app enables users to input transactions by filling in details such as the amount, type, and category (indicating what the money was used for or where it came from). Users can then click the "Add Transaction" button to save the data. This data is persisted, allowing users to return to the page and access their transaction history at any time. The project was built with ReactJS and Tailwind CSS, using the `@collinsadi/tailwind-setup` package, which facilitated generating React files with Vite and pre-configured Tailwind CSS.
+
+For more information about the `@collinsadi/tailwind-setup` package, visit: [@collinsadi/tailwind-setup](https://www.npmjs.com/package/@collinsadi/tailwind-setup).
